@@ -1,10 +1,10 @@
 <scheme name="Light Lite" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-02-16T08:01:53</property>
+    <property name="created">2023-01-25T12:26:07</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-02-16T08:02:13</property>
+    <property name="ideVersion">2022.3.1.0.0</property>
+    <property name="modified">2023-01-25T12:26:13</property>
     <property name="originalScheme">Light Lite</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -12,8 +12,6 @@
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
-  <option name="CONSOLE_FONT_SIZE" value="15" />
-  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="CARET_COLOR" value="" />
     <option name="CARET_ROW_COLOR" value="f7f7f7" />
@@ -323,6 +321,9 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -421,20 +422,13 @@
         <option name="FOREGROUND" value="4285f4" />
       </value>
     </option>
-    <option name="LINE_FULL_COVERAGE">
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="LINE_NONE_COVERAGE">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="LINE_PARTIAL_COVERAGE">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
+    <option name="KOTLIN_LABEL">
+      <value />
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value />
@@ -486,6 +480,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="99ccbb" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
