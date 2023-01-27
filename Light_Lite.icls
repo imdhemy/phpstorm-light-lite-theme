@@ -1,10 +1,10 @@
 <scheme name="Light Lite" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-01-25T12:26:07</property>
+    <property name="created">2023-01-27T23:29:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.3.1.0.0</property>
-    <property name="modified">2023-01-25T12:26:13</property>
+    <property name="modified">2023-01-27T23:30:21</property>
     <property name="originalScheme">Light Lite</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -25,7 +25,7 @@
     <option name="LINE_NUMBERS_COLOR" value="555555" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
-    <option name="NOTIFICATION_BACKGROUND" value="" />
+    <option name="NOTIFICATION_BACKGROUND" value="fff8e3" />
     <option name="QUESTION_HINT" value="" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="f0f0f0" />
